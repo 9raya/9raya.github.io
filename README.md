@@ -26,5 +26,4 @@
 >>>>[05.jpg](https://9raya.github.io/2%20BAC%20PHYSIQUE/SVT/Consommation%20de%20la%20mati%C3%A8re%20organique%20et%20flux%20d'%C3%A9nergie/%C3%89xercices%20(+Corrig%C3%A9s)/05.jpg) <br>
 >>>>[06.jpg](https://9raya.github.io/2%20BAC%20PHYSIQUE/SVT/Consommation%20de%20la%20mati%C3%A8re%20organique%20et%20flux%20d'%C3%A9nergie/%C3%89xercices%20(+Corrig%C3%A9s)/06.jpg) <br>
 >>>>
-<br>
-by Oussama
+<div><p>by Oussama</p></div>
